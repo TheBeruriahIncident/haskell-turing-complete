@@ -1,3 +1,5 @@
+--Kevin Broderick, Adam Campbell [akroy] (akroyvenslaka@gmail.com)
+--University of Virginia, April 2013
 import Data.Maybe
 import Data.Tuple
 
